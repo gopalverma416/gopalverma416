@@ -57,7 +57,7 @@ Final year Computer Science student at NIT Bhopal. Passionate full-stack develop
       <img src="https://leetcard.jacoblin.cool/gopalverma416?theme=light&font=Baloo+Bhai&ext=activity" width="275" />
     </td>
     <td>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vermaGopal416" width="275" />
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tesla.69" width="275" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopalverma416&theme=default" width="275" />
